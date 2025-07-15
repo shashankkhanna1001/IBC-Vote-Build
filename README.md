@@ -96,8 +96,6 @@ Optional OTP/email verification
 
  Biometric voter verification
 
-📜 License
-MIT License (or replace with your preferred license)
 
 🤝 Contributing
 Contributions are welcome! Feel free to submit issues or PRs.
